@@ -139,4 +139,25 @@ Bonito fin de semana.
 Saludos. 
 
 
-EnigmaTech
+
+Cuéntame sobre ti.
+
+Actualmente participo en un programa de capacitación para Desarrolladores Java. El programa se enfoca en las destrezas concretas requeridas para ser un desarrollador exitoso. Desde que ingresé al programa, realicé muchas actividades prácticas mediante desafíos, casos y juegos de roles, y me doy cuenta de que realmente me apasiona escribir código y trabajar en la industria de desarrollo de software. 
+Busco volcar mi pasión en la práctica y comenzar mi carrera profesional en este sector, y me interesa mucho poder hacerlo con ustedes.
+En mis tiempos libres trato de aprender ciertas tecnologías que pienso yo que van a ser una buena apuesta para el futuro.
+
+
+¿Por qué estás interesado en este puesto?
+
+"Este puesto me parece un desafío apasionante porque me permitirá aplicar mis conocimientos en [área] y aprender nuevas tecnologías como [tecnología]."
+ La oportunidad de trabajar en un equipo dinámico y colaborar en proyectos innovadores me motiva mucho. Mis habilidades en [habilidad 1] y [habilidad 2], desarrolladas en [experiencia previa], me permiten aportar valor a este equipo. Además, el enfoque de la empresa en [valor de la empresa] se alinea perfectamente con mis propios valores. Estoy convencida de que este puesto me permitirá crecer profesionalmente y contribuir al éxito de la compañía."
+¿Cómo es tu proceso para realizar pruebas en los códigos que desarrollas?
+Desarrollo en sistemamodular.
+
+
+
+
+
+
+
+
