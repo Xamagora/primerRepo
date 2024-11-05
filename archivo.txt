@@ -1,1 +1,163 @@
-Primer archivo de mi repo
+
+
+Introducción  CSS
+<style>
+CSS3
+Que se unieron Hakon y Bert para ganar 
+equipo 9
+
+width: 980px
+
+https://ororo.tv/en/shows/the-mentalist
+<div> content
+¡Claro! Vamos a analizar cada uno de los atributos que mencionas en el elemento <div> con el id content:
+
+width:Ancho fijo
+margin: Márgenes
+padding: espacio interno del elemento.
+font-size: atributo especifica el tamaño de las letras;
+font-family: atributo determina la familia de fuentes que se utilizará para el texto.
+font-weight: Define el grosor de la fuente
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5); /* Fondo semitransparente */
+  z-index: 10001;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+Relleno: El atributo padding controla el espacio interno del elemento, es decir, el espacio entre el contenido del elemento y sus bordes.
+Valores: Al igual que margin, padding acepta cuatro valores. En este caso, el relleno superior es de 0 píxeles, el derecho e izquierdo de 35 píxeles, y el inferior de 50 píxeles. Esto crea un espacio alrededor del contenido del elemento, creando un área de contenido más pequeña dentro del div.
+
+<html class="nav-flip lenis lenis-smooth swup-enabled loading-done home-shift still" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" style="--app-height: 633px;"><head>
+
+<link rel="stylesheet" href="styles.css">
+
+****
+CSS Externo
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Esta es la manera externa de integrar css en tu html, usando una etiqueta < -->
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<h1>Esta es mi pagina</h1>
+<p>This is a paragraph.</p>
+</body>
+</html>
+
+****
+CSS interno
+<head>
+<style>
+
+body {
+  fondo-color: red;
+}
+
+h1{ color: yellow;}
+
+</style>
+</head>
+****
+CSS inline (etiqueta de atributo)
+    
+  Ejemplo 
+<h1 style="color:azul;alinear-texto:centrado;">  
+*****
+buscar: tailwind
+estilos.css  crear documento en visual.
+*****
+selectores
+
+1.Seleccionar por etiqueta html o elemento html, 
+nombre del elemento { /* aqui dentro va mi regla css */         }
+2.Seleccionar por clase, se usa nombre de la clase 
+.nombreDelaClass { /* van a tener la siguiente regla de estilos */ }
+3.tercer selector por id
+#nombreDeId
+<p id="quintoP"> Quinto parrafo</p>
+#quintoP
+
+.contenidos{
+
+/* van a tener la siguientes reglas de estilos */
+/* Cuando utilizamos un selector identificador usamos # para referirnos a el  */
+p{
+    color: yellow;
+}
+
+#quintoP{
+    /* Regla de css */
+    color:blue;
+}
+}
+
+ <!-- Saltos de línea simples --> saltos de línea simples
+            
+body {
+
+
+}
+h1{
+font-family:
+font-weight
+}
+
+       
+7 Y 9
+BUSCAR 3 POSTULACIONES.
+ME GUSTARIA TRABAJAR
+Si estuvieras en desacuerdo con lo que te propone un superior, ¿qué harías? 
+c.v. al correo 
+c.v. Magaly gonxalez
+cuento con
+EE-R - Introducción al CV + Taller
+ninja slicer olla                   
+
+CECyT 12 "José María Morelos".
+Técnico en informática. 
+2012 - 2015
+
+
+Apoyo psicoemocional vía remota a personas adolescentes y jovenes en México
+
+Tome varios cursos sobre temas de estrés, crisis, emociones, sustancias, emociones, pensamientos, para mi capacitación continua.
+Creación y divulgación sobre temas de psicoeducación utilizando herramientas visuales para una comunicación efectiva entre los usuarios.
+
+C.V. Magaly Gonzalez
+eva.alvarado@generation.org
+
+Buenos días, mentora Eva.
+Espero que el día de hoy se encuentre muy bien.
+El motivo de este mensaje es para enviarle mi C.V. que hablamos en mentoría. Una disculpa por la tardanza.
+De antemano muchas gracias.
+Bonito fin de semana.
+Saludos. 
+
+
+
+Cuéntame sobre ti.
+
+Actualmente participo en un programa de capacitación para Desarrolladores Java. El programa se enfoca en las destrezas concretas requeridas para ser un desarrollador exitoso. Desde que ingresé al programa, realicé muchas actividades prácticas mediante desafíos, casos y juegos de roles, y me doy cuenta de que realmente me apasiona escribir código y trabajar en la industria de desarrollo de software. 
+Busco volcar mi pasión en la práctica y comenzar mi carrera profesional en este sector, y me interesa mucho poder hacerlo con ustedes.
+En mis tiempos libres trato de aprender ciertas tecnologías que pienso yo que van a ser una buena apuesta para el futuro.
+
+
+¿Por qué estás interesado en este puesto?
+
+"Este puesto me parece un desafío apasionante porque me permitirá aplicar mis conocimientos en [área] y aprender nuevas tecnologías como [tecnología]."
+ La oportunidad de trabajar en un equipo dinámico y colaborar en proyectos innovadores me motiva mucho. Mis habilidades en [habilidad 1] y [habilidad 2], desarrolladas en [experiencia previa], me permiten aportar valor a este equipo. Además, el enfoque de la empresa en [valor de la empresa] se alinea perfectamente con mis propios valores. Estoy convencida de que este puesto me permitirá crecer profesionalmente y contribuir al éxito de la compañía."
+¿Cómo es tu proceso para realizar pruebas en los códigos que desarrollas?
+Desarrollo en sistemamodular.
+
+
+
+
+
+
+
+

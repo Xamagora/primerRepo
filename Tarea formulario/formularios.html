@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularios</title>
+    <link rel="stylesheet" href="style.css"> <!-- Esta es la manera externa de integrar css en tu html, usando una etiqueta -->
+</head>
+<body>
+    <div class="container">
+        <div class="form-contenido">
+            <h1 id="titulo">Formulario </h1>
+
+    <form>
+        <div class="datoEntrada" id="nombre"> 
+        <label>Nombre:</label><!--Definición de los inputs-->
+        <input type="text" placeholder="Nombre"> <!--Datos de entrada-->
+        </div>
+        <div class="datoEntrada" id="email"> 
+        <label>Email: </label>
+        <input type="email" placeholder="Correo"> <!--Datos de entrada-->
+        </div>
+        <div class="datoEntrada" id="password">
+        <label>Contraseña: </label>
+        <input type="password" placeholder="Contraseña"> <!--Datos de entrada-->
+        </div>
+        <div class="datoEntrada" id="fechaNam">
+        <label>Fecha de Nacimiento: </label>
+        <input type="date" placeholder="Fecha de Nacimiento"> <!--Datos de entrada-->
+        </div>
+        <div class="datoEntrada" id="telefono">
+            <label>Teléfono: </label>
+            <input type="tel" placeholder="Teléfono"> <!-- Datos de entrada -->
+        </div>
+        <br> 
+        <!-- <label>Botón </label>
+        <input type="button" value="Abrir"> -->
+        <hr>
+        <br> 
+        <input type="checkbox"> <!--Datos de entrada-->
+        <label>Terminos y condiciones </label>
+        <input type="radio"><!--Datos de entrada-->
+        <label>Quieres recibir promociones </label>
+        <br>
+        
+        <div class="boton">
+        <button id="enviar" type="submit">Enviar </button>
+        </div>
+   
+
+    </form>
+</div>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
